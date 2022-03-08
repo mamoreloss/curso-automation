@@ -3,4 +3,8 @@ Buen día
 Primera repo
 
 
+<<<<<<< HEAD
 2 modificacion
+=======
+JC estuvo aqui...
+>>>>>>> b25a139b171ff387e343db272900d7f47c42b227
